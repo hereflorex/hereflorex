@@ -50,15 +50,7 @@ Stack
 
 ---
 
-🧪 Currently Exploring
 
-Web Development     ████████████████░░
-Backend Development  ██████████████░░░░
-Cyber Security       ████████████░░░░░░
-Python               ███████████████░░░
-Java                  ████████████░░░░░░
-
----
 
 🧠 Mindset
 
