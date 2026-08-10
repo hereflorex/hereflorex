@@ -46,7 +46,7 @@ Stack
 
 "Python" "Flask" "HTML" "CSS" "JavaScript" "SQL"
 
-🌐 Live: "MediCare" (https://medicare-project-by-florex-production-06ec.up.railway.app/dashboard)
+🌐 Live: "MediCare" medicareflorex.up.railway.app 🪄 ( project)
 
 ---
 
