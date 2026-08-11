@@ -48,18 +48,5 @@ Stack
 
 🌐 Live: "MediCare" medicareflorex.up.railway.app 🪄 ( project)
 
----
-
-
-
-🧠 Mindset
-
-Learn → Build → Break → Understand → Fix → Repeat
-
-«"I don't just want to use technology.
-I want to understand what's happening underneath."»
-
----
-
 
 "> system.out.println("Keep building.");" 🚀
