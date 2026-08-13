@@ -46,7 +46,7 @@ Stack
 
 "Python" "Flask" "HTML" "CSS" "JavaScript" "SQL"
 
-🌐 Live: "MediCare" medicareflorex.up.railway.app 🪄 ( project)
+🌐 Live: "MediCare" https://medicareflorex.up.railway.app/dashboard🪄 ( project)
 
 
 "> system.out.println("Keep building.");" 🚀
