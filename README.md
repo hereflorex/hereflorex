@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+FLOREX;BCA+Student+%7C+Developer+in+Progress;Building+MediCare+%26+Beyond" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+FLOREX;BCA+Student+%7C+Developer+in+Pro;Building+M+%26+Beyond" alt="Typing SVG" />
 
 <br>
 
@@ -21,7 +21,7 @@ focus: Ethical Tech · Code · Systems · Creative Builds
 philosophy: "Learn the fundamentals. Build useful things. Test what you create. Improve every version."
 ```
 
-I'm a **BCA student and developer in progress**, focused on learning through real projects and continuous experimentation. I work back-end to interface, always prioritizing **clean architecture**, **practical design**, and **secure code**.
+I'm FLOREX developer in progress**, focused on learning through real projects and continuous experimentation. I work back-end to interface, always prioritizing **clean architecture**, **practical design**, and **secure code**.
 
 - 🌐 Web development and backend systems
 - 🐍 Python-based applications and automation
