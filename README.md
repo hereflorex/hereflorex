@@ -60,7 +60,7 @@ A healthcare web application designed to make patient and doctor workflows easie
   <a href="https://github.com/hereflorex/Medicare_byFLOREX">
     <img src="https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://medicareflorex.up.railway.app/dashboard">
+  <a href="https://medicareflorex.up.railway.app">
     <img src="https://img.shields.io/badge/Open_Live_Project-1f6feb?style=flat-square&logo=railway&logoColor=white">
   </a>
 </p>
